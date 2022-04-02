@@ -1,0 +1,9 @@
+Git Basic Commands
+
+git init
+git status
+git add <fileName> || [.]
+git commit -m (message) 'I just added git commit to this file'
+add your credentials 
+git config --global user.email "oyindamolainenglish@gmail.com"
+git config --global user.name "HoneymixedwithWealth"
